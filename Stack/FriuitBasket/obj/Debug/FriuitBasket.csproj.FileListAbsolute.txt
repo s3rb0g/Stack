@@ -1,0 +1,7 @@
+C:\Users\Ranie Gobres\Desktop\asd\FriuitBasket\FriuitBasket\bin\Debug\FriuitBasket.exe.config
+C:\Users\Ranie Gobres\Desktop\asd\FriuitBasket\FriuitBasket\bin\Debug\FriuitBasket.exe
+C:\Users\Ranie Gobres\Desktop\asd\FriuitBasket\FriuitBasket\bin\Debug\FriuitBasket.pdb
+C:\Users\Ranie Gobres\Desktop\asd\FriuitBasket\FriuitBasket\obj\Debug\FriuitBasket.csproj.AssemblyReference.cache
+C:\Users\Ranie Gobres\Desktop\asd\FriuitBasket\FriuitBasket\obj\Debug\FriuitBasket.csproj.CoreCompileInputs.cache
+C:\Users\Ranie Gobres\Desktop\asd\FriuitBasket\FriuitBasket\obj\Debug\FriuitBasket.exe
+C:\Users\Ranie Gobres\Desktop\asd\FriuitBasket\FriuitBasket\obj\Debug\FriuitBasket.pdb
